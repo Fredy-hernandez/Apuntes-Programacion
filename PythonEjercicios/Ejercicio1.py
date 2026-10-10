@@ -1,4 +1,4 @@
-rint("\n Resultado esperado: \n")
+print("\n Resultado esperado: \n")
 print("Diario de un Astronauta \n")
 print("Fecha: 2024-01-10 \n")
 print("Hoy experimentamos con el cultivo de plantas en microgravedad. \n")

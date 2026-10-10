@@ -1,0 +1,39 @@
+git branch (nombre de rama nueva)   //Para crear una nueva rama//
+
+git branch           //Para ver en que rama de tu repocitorio estas y cuantas tienes //
+
+git switch (nombre de rama)   //Para seleccionar a la rama que quieres entrar//
+
+git add .     //Agrega los archivos njevos generados//
+
+git commit -m "Se agrego tal cosa"      //Para comentar que cambio hiciste//
+
+git push -u origin (nombre de la rama)      //para subir a git hub cuando es nueva la rama//
+
+
+
+
+git merge (nombre de la otra rama)   //Para cambiar el contenido de la rama en la que estes a otra//
+
+git push origin main   //Para subir el contenido a github pero cuando no es una rama nueva//
+
+
+
+
+git rm -rf .   //Para borrar todo el contenido de la rama en la que estas//
+
+
+
+
+
+
+
+
+Nombre de carpetas para claves privadas, como bace de datos y pendejada asi que no entiendo:
+
+.env
+    Clave_privada = "Tal cosa"
+
+
+.env example
+    Clave privada = ""

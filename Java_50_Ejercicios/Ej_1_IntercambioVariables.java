@@ -1,5 +1,3 @@
-package Java_50_Ejercicios;
-
 public class Ej_1_IntercambioVariables {
     public static void main(String[] args) {
         int a = 10;

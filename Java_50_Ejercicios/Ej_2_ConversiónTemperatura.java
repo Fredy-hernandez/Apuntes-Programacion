@@ -1,5 +1,3 @@
-package Java_50_Ejercicios;
-
 public class Ej_2_ConversiónTemperatura {
     public static void main (String[] args){
         double c = 36.6;
